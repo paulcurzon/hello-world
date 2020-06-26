@@ -1,5 +1,5 @@
 // A very simple Java program
-public static void hello
+class hello
 {
     public static void main (String [] param)
     {
